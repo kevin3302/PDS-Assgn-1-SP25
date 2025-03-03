@@ -88,7 +88,10 @@
 
 <p>2) Perform 5 data visualization tasks on the student performance dataset given in the link below (create 5 different visualizations). Explain what kind analysis has become easier with each of the visualizations. Create the folder structure for this question similar to question 1. (15 points).</p>
 
-<p>Data link: <a href="https://app.box.com/s/ji910ez3ycw137rw07xnhielxey7ww41">https://app.box.com/s/ji910ez3ycw137rw07xnhielxey7ww41</a></p>
+<p>Data link:</p> 
+```
+https://app.box.com/s/ji910ez3ycw137rw07xnhielxey7ww41">https://app.box.com/s/ji910ez3ycw137rw07xnhielxey7ww41
+```
 
 <h2>Submission:</h2>
 
