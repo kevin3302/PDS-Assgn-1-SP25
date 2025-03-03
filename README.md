@@ -74,7 +74,7 @@
       <td>112</td>
       <td>17</td>
       <td>19</td>
-      <td>IN</td>
+      <td>N</td>
     </tr>
     <tr>
       <td>66.8</td>
