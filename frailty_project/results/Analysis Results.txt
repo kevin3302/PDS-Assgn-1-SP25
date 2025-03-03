@@ -1,0 +1,14 @@
+
+# Analysis Results
+
+## Correlation Matrix:
+                    Age    Height    Weight  Grip strength   Frailty
+Age            1.000000 -0.032580  0.190926       0.133756 -0.083655
+Height        -0.032580  1.000000  0.571525      -0.167682  0.193186
+Weight         0.190926  0.571525  1.000000       0.032807  0.535200
+Grip strength  0.133756 -0.167682  0.032807       1.000000 -0.475867
+Frailty       -0.083655  0.193186  0.535200      -0.475867  1.000000
+
+## t-test Results (Grip Strength by Frailty):
+t-statistic: 1.5303334194571003
+p-value: 0.1644646461051128

@@ -1,0 +1,30 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:          Grip strength   R-squared:                       0.455
+Model:                            OLS   Adj. R-squared:                  0.018
+Method:                 Least Squares   F-statistic:                     1.042
+Date:                Mon, 03 Mar 2025   Prob (F-statistic):              0.469
+Time:                        22:44:45   Log-Likelihood:                -25.721
+No. Observations:                  10   AIC:                             61.44
+Df Residuals:                       5   BIC:                             62.95
+Df Model:                           4                                         
+Covariance Type:            nonrobust                                         
+==============================================================================
+                 coef    std err          t      P>|t|      [0.025      0.975]
+------------------------------------------------------------------------------
+const         78.7533     68.122      1.156      0.300     -96.359     253.866
+Age           -0.0283      0.124     -0.227      0.829      -0.348       0.292
+Height        -1.1482      1.132     -1.014      0.357      -4.058       1.762
+Weight         0.2249      0.161      1.399      0.221      -0.188       0.638
+Frailty       -6.8247      3.594     -1.899      0.116     -16.062       2.413
+==============================================================================
+Omnibus:                        0.848   Durbin-Watson:                   2.419
+Prob(Omnibus):                  0.655   Jarque-Bera (JB):                0.568
+Skew:                          -0.511   Prob(JB):                        0.753
+Kurtosis:                       2.434   Cond. No.                     7.34e+03
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The condition number is large, 7.34e+03. This might indicate that there are
+strong multicollinearity or other numerical problems.
